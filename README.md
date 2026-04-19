@@ -50,11 +50,10 @@ coder-buddy/generated_project/
 
 Add your screenshots here:
 
-```md
 ![Generated calculator](calculator-result.png)
 ![Generated todo app](todo-result.png)
 
-```
+
 
 ## Setup
 
