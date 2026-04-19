@@ -48,8 +48,11 @@ coder-buddy/generated_project/
 
 ## Demo
 
-[Generated calculator](calculator-result.png)
-[Generated todo app](todo-result.png)
+## Demo
+
+![Generated calculator](calculator-result.png)
+![Generated todo app](todo-result.png)
+
 
 
 
