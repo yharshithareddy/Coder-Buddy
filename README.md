@@ -51,8 +51,9 @@ coder-buddy/generated_project/
 Add your screenshots here:
 
 ```md
-![Generated calculator](docs/images/calculator-result.png)
-![Generated todo app](docs/images/todo-result.png)
+![Generated calculator](calculator-result.png)
+![Generated todo app](todo-result.png)
+
 ```
 
 ## Setup
